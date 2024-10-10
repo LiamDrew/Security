@@ -1,0 +1,129 @@
+Reading PCAP file set2.pcap...
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic YmFyYmFyaWFuOldXRUlzQmFjaw==
+
+)!
+Decoded Credentials: barbarian:WWEIsBack
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic dW5jbGVicmlhbjpUb255TnV0cw==
+
+)!
+Decoded Credentials: unclebrian:TonyNuts
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic d2FybG9yZDpUb25peElzVGhlR09BVA==
+
+)!
+Decoded Credentials: warlord:TonixIsTheGOAT
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin/ HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Authorization: Basic d2FybG9yZDpUb25peElzVGhlR09BVA==
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+
+)!
+Decoded Credentials: warlord:TonixIsTheGOAT
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin/ HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic SGV5S3Jpc2g6VGVsbEplZmZGb3N0ZXJUb01ha2VNZUFCb3hPZkNob2NvbGF0ZXM=
+
+)!
+Decoded Credentials: HeyKrish:TellJeffFosterToMakeMeABoxOfChocolates
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin/ HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic bGlsaXRoOkluYXJpdXM=
+
+)!
+Decoded Credentials: lilith:Inarius
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin/ HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic dG9tYnJhZHk6VEIxMklzVGhlR09BVA==
+
+)!
+Decoded Credentials: tombrady:TB12IsTheGOAT
+
+ALERT #1: Credentials sent in cleartext with HTTP is detected from 192.168.1.242 (HTTP) (GET /admin/ HTTP/1.1
+Host: 192.168.1.219
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+Authorization: Basic YmJveDpSb2Nrc3RlYWR5
+
+)!
+Decoded Credentials: bbox:Rocksteady
+

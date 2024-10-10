@@ -1,0 +1,7 @@
+Reading PCAP file set1.pcap...
+ALERT #1: Credentials sent in cleartext with FTP is detected from 192.168.1.242 (FTP) (USER unclebrian
+)!
+ALERT #2: Credentials sent in cleartext with FTP is detected from 192.168.1.242 (FTP) (USER unclebrian
+)!
+ALERT #3: Credentials sent in cleartext with FTP is detected from 192.168.1.242 (FTP) (PASS RiverSide
+)!

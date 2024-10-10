@@ -1,0 +1,71 @@
+Reading PCAP file smb.pcap...
+ALERT #1: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn S)!
+ALERT #2: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn PA / NBTSession / _SMBGeneric / Raw)!
+ALERT #3: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / SMBNegotiate_Request)!
+ALERT #4: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #5: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn FA)!
+ALERT #6: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49671 > 192.168.199.1:netbios_ssn A)!
+ALERT #7: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn S)!
+ALERT #8: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / _SMBGeneric / Raw)!
+ALERT #9: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / SMBNegotiate_Request)!
+ALERT #10: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / SMBSession_Setup_AndX_Request_Extended_Security)!
+ALERT #11: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / SMBSession_Setup_AndX_Request_Extended_Security)!
+ALERT #12: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / SMBTree_Connect_AndX)!
+ALERT #13: SMB scan is detected from 192.168.199.133 (SMB) (TCP / NBTSession / SMB_Header / Tran b'')!
+ALERT #14: SMB scan is detected from 192.168.199.133 (SMB) (TCP / NBTSession / SMB_Header / Tran b'')!
+ALERT #15: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn A)!
+ALERT #16: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / Raw)!
+ALERT #17: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn PA / NBTSession / SMB_Header / Raw)!
+ALERT #18: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn FA)!
+ALERT #19: SMB scan is detected from 192.168.199.133 (SMB) (TCP 192.168.199.133:49672 > 192.168.199.1:netbios_ssn A)!
+ALERT #20: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds S)!
+ALERT #21: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds A)!
+ALERT #22: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB_Header / SMBNegotiate_Request)!
+ALERT #23: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #24: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #25: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #26: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49670 > 192.168.199.133:microsoft_ds RA)!
+ALERT #27: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds S)!
+ALERT #28: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds A)!
+ALERT #29: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #30: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #31: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #32: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49671 > 192.168.199.133:microsoft_ds RA)!
+ALERT #33: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds S)!
+ALERT #34: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds A)!
+ALERT #35: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #36: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #37: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #38: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49672 > 192.168.199.133:microsoft_ds RA)!
+ALERT #39: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds S)!
+ALERT #40: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds A)!
+ALERT #41: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #42: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #43: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #44: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49673 > 192.168.199.133:microsoft_ds RA)!
+ALERT #45: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds S)!
+ALERT #46: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds A)!
+ALERT #47: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB_Header / SMBNegotiate_Request)!
+ALERT #48: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #49: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #50: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #51: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49674 > 192.168.199.133:microsoft_ds RA)!
+ALERT #52: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds S)!
+ALERT #53: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds A)!
+ALERT #54: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB_Header / SMBNegotiate_Request)!
+ALERT #55: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Negotiate_Protocol_Request)!
+ALERT #56: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #57: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Session_Setup_Request)!
+ALERT #58: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Tree_Connect_Request)!
+ALERT #59: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_IOCTL_Request)!
+ALERT #60: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Create_Request)!
+ALERT #61: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Query_Info_Request)!
+ALERT #62: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Write_Request)!
+ALERT #63: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Read_Request / Raw)!
+ALERT #64: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Write_Request)!
+ALERT #65: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Read_Request / Raw)!
+ALERT #66: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds PA / NBTSession / SMB2_Header / SMB2_Close_Request)!
+ALERT #67: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds A)!
+ALERT #68: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds A / Raw)!
+ALERT #69: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds A / Raw)!
+ALERT #70: SMB scan is detected from 192.168.199.132 (SMB) (TCP 192.168.199.132:49675 > 192.168.199.133:microsoft_ds A)!

