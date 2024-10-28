@@ -1,1 +1,1 @@
-alert("level 6")
+alert("level 6");
