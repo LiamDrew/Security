@@ -1,0 +1,9 @@
+bluebear:$6$csATVChW0EDFvOxe$Go04JRoOaZGOn6DFfjlEegI5VILMTKkMR/y8PKhO4IyOxs6dLb9826ZaJyQ66ZxVyVb/E5ZfaHk0vNRsz7kQo0:1009:1009:,,,:/home/bluebear:/bin/bash
+cozybear:$6$JebLS.c2mktxZcgl$64.cqo8W08nNpUmay9PC0BfTe4lgS6lXOhEX52ftcwC8zOVf1Qd8FdTi4DLTAiSEEil2OuF3mnwRnbrjvSN61/:1010:1010:,,,:/home/cozybear:/bin/bash
+polarbear:$6$9wMEUyUisuS4bPDe$oWlPDsDsTXG.tEY2dVrbk1S4JnstNEWfBr.molK.nSv68VS5/bEKPh967.IrY4YPzjvFkRqXQdRlXAU0jr.jf.:1011:1011:,,,:/home/polarbear:/bin/bash
+teddybear:$6$29qVCVzp.Q17JXVY$zPhYZUlZNkbw8fvQQVjLTuW4MA0PjzySHPEAtKmezba0wzrtYCWM60u2c946ODPnUBygW/YRIRCO.jU01l704/:1012:1012:,,,:/home/teddybear:/bin/bash
+carebear:$6$eltS1hJ9D/M5wRve$sn2LY9VTase07I0Xs7TfK50E2qT7hrL/lmKFhoepPHa8IBXIkKdt4QJfJXpSHLKFWWMzC6fCzldaXB03uFQ7n0:1013:1013:,,,:/home/carebear:/bin/bash
+blackbear:$6$7hQwol6AVBtGtjzb$0AsXmamaBKoEORKAc0Vh54E0WZJ.TREivbBEizmSzszHqyxmFbG0gfbBPmdJdVgZqiwEQEBdtCEcEgp.k9tPq.:1014:1014:,,,:/home/blackbear:/bin/bash
+fancybear:$6$pKg7SbOiBmDEuHpQ$C.hZhPEBKvoaG33aMM5rrmJpj.ceXqwCPDDIkeyEGjvK22f6ohqZeAGqceMPWPCJRkcKqFvmtJ/8GRAuYIxhR1:1015:1015:,,,:/home/fancybear:/bin/bash
+brotherbear:$6$si4IzJRiz8p1JAa4$CgCLo2n2yVsA0j3MCLX//QrFdsuUJk6NiTokPFt0LPDRPYV/.Rn8w5riQuFB.R2q9pjO4b51kbLzs/T1t6M2N1:1016:1016:,,,:/home/brotherbear:/bin/bash
+
